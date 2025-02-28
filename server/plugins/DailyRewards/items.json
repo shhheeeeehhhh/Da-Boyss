@@ -1,0 +1,177 @@
+{
+  "DIAMONDx1": {
+    "Material": "DIAMOND",
+    "Amount": 1,
+    "Name": null,
+    "Lore": null,
+    "Data": 0
+  },
+  "DIAMONDx3": {
+    "Material": "DIAMOND",
+    "Amount": 3,
+    "Name": null,
+    "Lore": null,
+    "Data": 0
+  },
+  "DIAMONDx5": {
+    "Material": "DIAMOND",
+    "Amount": 5,
+    "Name": null,
+    "Lore": null,
+    "Data": 0
+  },
+  "DIAMONDx10": {
+    "Material": "DIAMOND",
+    "Amount": 10,
+    "Name": null,
+    "Lore": null,
+    "Data": 0
+  },
+  "DIAMONDx15": {
+    "Material": "DIAMOND",
+    "Amount": 15,
+    "Name": null,
+    "Lore": null,
+    "Data": 0
+  },
+  "DIAMONDx20": {
+    "Material": "DIAMOND",
+    "Amount": 20,
+    "Name": null,
+    "Lore": null,
+    "Data": 0
+  },
+  "DIAMONDx30": {
+    "Material": "DIAMOND",
+    "Amount": 30,
+    "Name": null,
+    "Lore": null,
+    "Data": 0
+  },
+  "DIAMONDx40": {
+    "Material": "DIAMOND",
+    "Amount": 40,
+    "Name": null,
+    "Lore": null,
+    "Data": 0
+  },
+  "DIAMONDx50": {
+    "Material": "DIAMOND",
+    "Amount": 50,
+    "Name": null,
+    "Lore": null,
+    "Data": 0
+  },
+  "TNTx5": {
+    "Material": "TNT",
+    "Amount": 5,
+    "Name": null,
+    "Lore": null,
+    "Data": 0
+  },
+  "TNTx20": {
+    "Material": "TNT",
+    "Amount": 20,
+    "Name": null,
+    "Lore": null,
+    "Data": 0
+  },
+  "EMERALDx3": {
+    "Material": "EMERALD",
+    "Amount": 3,
+    "Name": null,
+    "Lore": null,
+    "Data": 0
+  },
+  "EMERALDx5": {
+    "Material": "EMERALD",
+    "Amount": 5,
+    "Name": null,
+    "Lore": null,
+    "Data": 0
+  },
+  "GOLDEN_APPLEx1": {
+    "Material": "GOLDEN_APPLE",
+    "Amount": 1,
+    "Name": null,
+    "Lore": null,
+    "Data": 0
+  },
+  "GOLDEN_APPLEx3": {
+    "Material": "GOLDEN_APPLE",
+    "Amount": 3,
+    "Name": null,
+    "Lore": null,
+    "Data": 0
+  },
+  "ENCHANTED_GOLDEN_APPLEx1": {
+    "Material": "GOLDEN_APPLE",
+    "Amount": 1,
+    "Name": null,
+    "Lore": null,
+    "Data": 1
+  },
+  "ENCHANTED_GOLDEN_APPLEx3": {
+    "Material": "GOLDEN_APPLE",
+    "Amount": 3,
+    "Name": null,
+    "Lore": null,
+    "Data": 1
+  },
+  "OBSIDIANx10": {
+    "Material": "OBSIDIAN",
+    "Amount": 10,
+    "Name": null,
+    "Lore": null,
+    "Data": 1
+  },
+  "OBSIDIANx20": {
+    "Material": "OBSIDIAN",
+    "Amount": 20,
+    "Name": null,
+    "Lore": null,
+    "Data": 1
+  },
+  "OBSIDIANx30": {
+    "Material": "OBSIDIAN",
+    "Amount": 30,
+    "Name": null,
+    "Lore": null,
+    "Data": 1
+  },
+  "OBSIDIANx40": {
+    "Material": "OBSIDIAN",
+    "Amount": 30,
+    "Name": null,
+    "Lore": null,
+    "Data": 1
+  },
+  "OBSIDIANx50": {
+    "Material": "OBSIDIAN",
+    "Amount": 30,
+    "Name": null,
+    "Lore": null,
+    "Data": 1
+  },
+  "BEDROCKx5": {
+    "Material": "BEDROCK",
+    "Amount": 5,
+    "Name": null,
+    "Lore": null,
+    "Data": 0
+  },
+  "BEDROCKx10": {
+    "Material": "BEDROCK",
+    "Amount": 10,
+    "Name": null,
+    "Lore": null,
+    "Data": 0
+  },
+  "BEDROCKx20": {
+    "Material": "BEDROCK",
+    "Amount": 20,
+    "Name": null,
+    "Lore": null,
+    "Data": 0
+  }
+}

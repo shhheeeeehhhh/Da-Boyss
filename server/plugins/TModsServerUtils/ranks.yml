@@ -1,0 +1,9 @@
+Players:
+  542fe86b-f7d9-3baa-9af8-302d489ab0b4: Guest
+Ranks:
+  Admin:
+    name: Admin
+    permissions: []
+    prefix: '[Admin] '
+    suffix: ': '
+    default: true

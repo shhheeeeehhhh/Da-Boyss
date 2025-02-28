@@ -1,0 +1,31 @@
+Npc:
+  minecraft:weaponsmith:
+    NpcType: VILLAGER
+    Name: ''
+    Invisible: false
+    Glowing: true
+    Data: []
+    Commands: [/shop]
+    Location:
+      World: world
+      X: 4.491896983192365
+      Y: 76.0
+      Z: -59.34786603491965
+      Yaw: -0.39753523
+      Pitch: 55.547077
+    Waypoints: []
+  minecraft:armorer:
+    NpcType: VILLAGER
+    Name: ''
+    Invisible: false
+    Glowing: false
+    Data: []
+    Commands: [/rtp]
+    Location:
+      World: world
+      X: 8.51931527171956
+      Y: 76.0
+      Z: -59.30000001192093
+      Yaw: 78.61182
+      Pitch: 89.25
+    Waypoints: []

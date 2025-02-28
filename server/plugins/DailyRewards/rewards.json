@@ -1,0 +1,143 @@
+{
+  "1": {
+    "Items": [
+      "DIAMONDx2",
+      "TNTx1"
+    ],
+    "Commands": []
+  },
+  "2": {
+    "Items": [
+      "DIAMONDx3",
+      "TNTx5"
+    ],
+    "Commands": []
+  },
+  "3": {
+    "Items": [
+      "DIAMONDx5",
+      "TNTx20"
+    ],
+    "Commands": []
+  },
+  "4": {
+    "Items": [
+      "DIAMONDx10",
+      "TNTx5",
+      "EMERALDx3"
+    ],
+    "Commands": []
+  },
+  "5": {
+    "Items": [
+      "DIAMONDx15",
+      "GOLDEN_APPLEx1",
+      "EMERALDx5"
+    ],
+    "Commands": []
+  },
+  "6": {
+    "Items": [
+      "DIAMONDx20",
+      "GOLDEN_APPLEx3",
+      "TNTx5",
+      "ENCHANTED_GOLDEN_APPLEx1"
+    ],
+    "Commands": []
+  },
+  "7": {
+    "Items": [
+      "DIAMONDx30",
+      "TNTx20",
+      "EMERALDx3",
+      "GOLDEN_APPLEx1",
+      "ENCHANTED_GOLDEN_APPLEx3"
+    ],
+    "Commands": [
+      "gamemode 1 %PLAYER%",
+      "pex user %PLAYER% group add Premium"
+    ]
+  },
+  "8": {
+    "Items": [
+      "DIAMONDx30",
+      "TNTx20",
+      "OBSIDIANx10",
+      "GOLDEN_APPLEx1",
+      "BEDROCKx5",
+      "ENCHANTED_GOLDEN_APPLEx3"
+    ],
+    "Commands": []
+  },
+  "9": {
+    "Items": [
+      "DIAMONDx30",
+      "TNTx20",
+      "OBSIDIANx20",
+      "EMERALDx3",
+      "BEDROCKx5",
+      "ENCHANTED_GOLDEN_APPLEx3"
+    ],
+    "Commands": []
+  },
+  "10": {
+    "Items": [
+      "DIAMONDx30",
+      "TNTx20",
+      "OBSIDIANx30",
+      "EMERALDx3",
+      "GOLDEN_APPLEx1",
+      "BEDROCKx10",
+      "ENCHANTED_GOLDEN_APPLEx3"
+    ],
+    "Commands": []
+  },
+  "11": {
+    "Items": [
+      "DIAMONDx30",
+      "TNTx20",
+      "OBSIDIANx30",
+      "EMERALDx5",
+      "GOLDEN_APPLEx1",
+      "BEDROCKx20",
+      "ENCHANTED_GOLDEN_APPLEx3"
+    ],
+    "Commands": []
+  },
+  "12": {
+    "Items": [
+      "DIAMONDx30",
+      "TNTx20",
+      "OBSIDIANx40",
+      "EMERALDx5",
+      "GOLDEN_APPLEx3",
+      "BEDROCKx20",
+      "ENCHANTED_GOLDEN_APPLEx3"
+    ],
+    "Commands": []
+  },
+  "13": {
+    "Items": [
+      "DIAMONDx40",
+      "TNTx20",
+      "OBSIDIANx40",
+      "EMERALDx5",
+      "GOLDEN_APPLEx3",
+      "BEDROCKx10",
+      "ENCHANTED_GOLDEN_APPLEx3"
+    ],
+    "Commands": []
+  },
+  "14": {
+    "Items": [
+      "DIAMONDx50",
+      "TNTx20",
+      "OBSIDIANx50",
+      "EMERALDx5",
+      "GOLDEN_APPLEx1",
+      "BEDROCKx20",
+      "ENCHANTED_GOLDEN_APPLEx3"
+    ],
+    "Commands": []
+  }
+}

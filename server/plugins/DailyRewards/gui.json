@@ -1,0 +1,808 @@
+{
+  "Title": "&2Daily &fRewards",
+  "Size": 54,
+  "Pattern": [
+    "Z", "Z", "Z", "Z", "Z", "Z", "Z", "Z", "Z",
+    "Z", "1", "X", "2", "X", "3", "X", "4", "Z",
+    "Z", "X", "5", "X", "6", "X", "7", "X", "Z",
+    "Z", "8", "X", "9", "X", "10", "X", "11", "Z",
+    "Z", "X", "12", "X", "13", "X", "14", "X", "Z",
+    "Z", "Z", "Z", "Z", "Z", "Z", "Z", "Z", "Z"
+  ],
+  "FillingItems": {
+    "Z": {
+      "Name": "&8%PLAYER%",
+      "Lore": [],
+      "Material": "STAINED_GLASS_PANE",
+      "Data": 0
+    },
+    "X": {
+      "Name": "&8%PLAYER%",
+      "Lore": [],
+      "Material": "STAINED_GLASS_PANE",
+      "Data": 15
+    }
+  },
+  "RewardItems": {
+    "1": {
+      "Previous": {
+        "Name": "         &fREWARD NUMBER &21",
+        "Lore": [
+          "",
+          "&f--------------------------",
+          "             &2COLLECTED",
+          "&f--------------------------",
+          "",
+          "&9Diamond &fx&3 1",
+          "&4TNT &fx&c 5",
+          ""
+        ],
+        "Material": "STAINED_GLASS_PANE",
+        "Data": 13
+      },
+      "Current": {
+        "Name": "         &fREWARD NUMBER &21",
+        "Lore": [
+          "",
+          "&f--------------------------",
+          "              &2AVAILABLE",
+          "&f--------------------------",
+          "",
+          "&9Diamond &fx&3 1",
+          "&4TNT &fx&c 5",
+          ""
+        ],
+        "Material": "STAINED_GLASS_PANE",
+        "Data": 5
+      },
+      "Next": {
+        "Name": "         &fREWARD NUMBER &21",
+        "Lore": [
+          "",
+          "&f--------------------------",
+          "          &4NOT AVAILABLE",
+          "&f--------------------------",
+          "",
+          "&9Diamond &fx&3 1",
+          "&4TNT &fx&c 5",
+          ""
+        ],
+        "Material": "STAINED_GLASS_PANE",
+        "Data": 14
+      }
+    },
+    "2": {
+      "Previous": {
+        "Name": "         &fREWARD NUMBER &22",
+        "Lore": [
+          "",
+          "&f--------------------------",
+          "             &2COLLECTED",
+          "&f--------------------------",
+          "",
+          "&9Diamond &fx&3 3",
+          "&4TNT &fx&c 5",
+          ""
+        ],
+        "Material": "STAINED_GLASS_PANE",
+        "Data": 13
+      },
+      "Current": {
+        "Name": "         &fREWARD NUMBER &22",
+        "Lore": [
+          "",
+          "&f--------------------------",
+          "             &2AVAILABLE",
+          "&f--------------------------",
+          "",
+          "&9Diamond &fx&3 3",
+          "&4TNT &fx&c 5",
+          ""
+        ],
+        "Material": "STAINED_GLASS_PANE",
+        "Data": 5
+      },
+      "Next": {
+        "Name": "         &fREWARD NUMBER &22",
+        "Lore": [
+          "",
+          "&f--------------------------",
+          "          &4NOT AVAILABLE",
+          "&f--------------------------",
+          "",
+          "&9Diamond &fx&3 3",
+          "&4TNT &fx&c 5",
+          ""
+        ],
+        "Material": "STAINED_GLASS_PANE",
+        "Data": 14
+      }
+    },
+    "3": {
+      "Previous": {
+        "Name": "         &fREWARD NUMBER &23",
+        "Lore": [
+          "",
+          "&f--------------------------",
+          "             &2COLLECTED",
+          "&f--------------------------",
+          "",
+          "&9Diamond &fx&3 5",
+          "&4TNT &fx&c 20",
+          ""
+        ],
+        "Material": "STAINED_GLASS_PANE",
+        "Data": 13
+      },
+      "Current": {
+        "Name": "         &fREWARD NUMBER &23",
+        "Lore": [
+          "",
+          "&f--------------------------",
+          "              &2AVAILABLE",
+          "&f--------------------------",
+          "",
+          "&9Diamond &fx&3 5",
+          "&4TNT &fx&c 20",
+          ""
+        ],
+        "Material": "STAINED_GLASS_PANE",
+        "Data": 5
+      },
+      "Next": {
+        "Name": "         &fREWARD NUMBER &23",
+        "Lore": [
+          "",
+          "&f--------------------------",
+          "          &4NOT AVAILABLE",
+          "&f--------------------------",
+          "",
+          "&9Diamond &fx&3 5",
+          "&4TNT &fx&c 20",
+          ""
+        ],
+        "Material": "STAINED_GLASS_PANE",
+        "Data": 14
+      }
+    },
+    "4": {
+      "Previous": {
+        "Name": "         &fREWARD NUMBER &24",
+        "Lore": [
+          "",
+          "&f--------------------------",
+          "             &2COLLECTED",
+          "&f--------------------------",
+          "",
+          "&9Diamond &fx&3 10",
+          "&4TNT &fx&c 5",
+          "&2Emerald &fx&a 3",
+          ""
+        ],
+        "Material": "STAINED_GLASS_PANE",
+        "Data": 13
+      },
+      "Current": {
+        "Name": "         &fREWARD NUMBER &24",
+        "Lore": [
+          "",
+          "&f--------------------------",
+          "              &2AVAILABLE",
+          "&f--------------------------",
+          "",
+          "&9Diamond &fx&3 10",
+          "&4TNT &fx&c 5",
+          "&2Emerald &fx&a 3",
+          ""
+        ],
+        "Material": "STAINED_GLASS_PANE",
+        "Data": 5
+      },
+      "Next": {
+        "Name": "         &fREWARD NUMBER &24",
+        "Lore": [
+          "",
+          "&f--------------------------",
+          "          &4NOT AVAILABLE",
+          "&f--------------------------",
+          "",
+          "&9Diamond &fx&3 10",
+          "&4TNT &fx&c 5",
+          "&2Emerald &fx&a 3",
+          ""
+        ],
+        "Material": "STAINED_GLASS_PANE",
+        "Data": 14
+      }
+    },
+    "5": {
+      "Previous": {
+        "Name": "         &fREWARD NUMBER &25",
+        "Lore": [
+          "",
+          "&f--------------------------",
+          "             &2COLLECTED",
+          "&f--------------------------",
+          "",
+          "&9Diamond &fx&3 15",
+          "&6Golden Apple &fx&e 1",
+          "&2Emerald &fx&a 5",
+          ""
+        ],
+        "Material": "STAINED_GLASS_PANE",
+        "Data": 13
+      },
+      "Current": {
+        "Name": "         &fREWARD NUMBER &25",
+        "Lore": [
+          "",
+          "&f--------------------------",
+          "              &2AVAILABLE",
+          "&f--------------------------",
+          "",
+          "&9Diamond &fx&3 15",
+          "&6Golden Apple &fx&e 1",
+          "&2Emerald &fx&a 5",
+          ""
+        ],
+        "Material": "STAINED_GLASS_PANE",
+        "Data": 5
+      },
+      "Next": {
+        "Name": "         &fREWARD NUMBER &25",
+        "Lore": [
+          "",
+          "&f--------------------------",
+          "          &4NOT AVAILABLE",
+          "&f--------------------------",
+          "",
+          "&9Diamond &fx&3 15",
+          "&6Golden Apple &fx&e 1",
+          "&2Emerald &fx&a 5",
+          ""
+        ],
+        "Material": "STAINED_GLASS_PANE",
+        "Data": 14
+      }
+    },
+    "6": {
+      "Previous": {
+        "Name": "         &fREWARD NUMBER &26",
+        "Lore": [
+          "",
+          "&f--------------------------",
+          "             &2COLLECTED",
+          "&f--------------------------",
+          "",
+          "&9Diamond &fx&3 20",
+          "&6Golden Apple &fx&e 3",
+          "&4TNT &fx&c 5",
+          "&5Enchanted Golden Apple &fx&d 1",
+          ""
+        ],
+        "Material": "STAINED_GLASS_PANE",
+        "Data": 13
+      },
+      "Current": {
+        "Name": "         &fREWARD NUMBER &26",
+        "Lore": [
+          "",
+          "&f--------------------------",
+          "              &2AVAILABLE",
+          "&f--------------------------",
+          "",
+          "&9Diamond &fx&3 20",
+          "&6Golden Apple &fx&e 3",
+          "&4TNT &fx&c 5",
+          "&5Enchanted Golden Apple &fx&d 1",
+          ""
+        ],
+        "Material": "STAINED_GLASS_PANE",
+        "Data": 5
+      },
+      "Next": {
+        "Name": "         &fREWARD NUMBER &26",
+        "Lore": [
+          "",
+          "&f--------------------------",
+          "          &4NOT AVAILABLE",
+          "&f--------------------------",
+          "",
+          "&9Diamond &fx&3 20",
+          "&6Golden Apple &fx&e 3",
+          "&4TNT &fx&c 5",
+          "&5Enchanted Golden Apple &fx&d 1",
+          ""
+        ],
+        "Material": "STAINED_GLASS_PANE",
+        "Data": 14
+      }
+    },
+    "7": {
+      "Previous": {
+        "Name": "         &fREWARD NUMBER &27",
+        "Lore": [
+          "",
+          "&f--------------------------",
+          "             &2COLLECTED",
+          "&f--------------------------",
+          "",
+          "&9Diamond &fx&3 30",
+          "&6Golden Apple &fx&e 1",
+          "&4TNT &fx&c 20",
+          "&2Emerald &fx&a 3",
+          "&5Enchanted Golden Apple &fx&d 3",
+          ""
+        ],
+        "Material": "STAINED_GLASS_PANE",
+        "Data": 13
+      },
+      "Current": {
+        "Name": "         &fREWARD NUMBER &27",
+        "Lore": [
+          "",
+          "&f--------------------------",
+          "              &2AVAILABLE",
+          "&f--------------------------",
+          "",
+          "&9Diamond &fx&3 30",
+          "&6Golden Apple &fx&e 1",
+          "&4TNT &fx&c 20",
+          "&2Emerald &fx&a 3",
+          "&5Enchanted Golden Apple &fx&d 3",
+          ""
+        ],
+        "Material": "STAINED_GLASS_PANE",
+        "Data": 5
+      },
+      "Next": {
+        "Name": "         &fREWARD NUMBER &27",
+        "Lore": [
+          "",
+          "&f--------------------------",
+          "          &4NOT AVAILABLE",
+          "&f--------------------------",
+          "",
+          "&9Diamond &fx&3 50",
+          "&4TNT &fx&c 20",
+          "&0Obsidian &fx&8 50",
+          "&2Emerald &fx&a 5",
+          "&6Golden Apple &fx&e 1",
+          "&2Bedrock &fx&a 20",
+          "&5Enchanted Golden Apple &fx&d 3",
+          ""
+        ],
+        "Material": "STAINED_GLASS_PANE",
+        "Data": 14
+      }
+    },
+    "8": {
+      "Previous": {
+        "Name": "         &fREWARD NUMBER &28",
+        "Lore": [
+          "",
+          "&f--------------------------",
+          "             &2COLLECTED",
+          "&f--------------------------",
+          "",
+          "&9Diamond &fx&3 30",
+          "&6Golden Apple &fx&e 1",
+          "&4TNT &fx&c 20",
+          "&0Obsidian &fx&8 10",
+          "&2Bedrock &fx&a 5",
+          "&5Enchanted Golden Apple &fx&d 3",
+          ""
+        ],
+        "Material": "STAINED_GLASS_PANE",
+        "Data": 13
+      },
+      "Current": {
+        "Name": "         &fREWARD NUMBER &28",
+        "Lore": [
+          "",
+          "&f--------------------------",
+          "              &2AVAILABLE",
+          "&f--------------------------",
+          "",
+          "&9Diamond &fx&3 30",
+          "&6Golden Apple &fx&e 1",
+          "&4TNT &fx&c 20",
+          "&0Obsidian &fx&8 10",
+          "&2Bedrock &fx&a 5",
+          "&5Enchanted Golden Apple &fx&d 3",
+          ""
+        ],
+        "Material": "STAINED_GLASS_PANE",
+        "Data": 5
+      },
+      "Next": {
+        "Name": "         &fREWARD NUMBER &28",
+        "Lore": [
+          "",
+          "&f--------------------------",
+          "          &4NOT AVAILABLE",
+          "&f--------------------------",
+          "",
+          "&9Diamond &fx&3 30",
+          "&6Golden Apple &fx&e 1",
+          "&4TNT &fx&c 20",
+          "&0Obsidian &fx&8 10",
+          "&2Bedrock &fx&a 5",
+          "&5Enchanted Golden Apple &fx&d 3",
+          ""
+        ],
+        "Material": "STAINED_GLASS_PANE",
+        "Data": 14
+      }
+    },
+    "9": {
+      "Previous": {
+        "Name": "         &fREWARD NUMBER &29",
+        "Lore": [
+          "",
+          "&f--------------------------",
+          "             &2COLLECTED",
+          "&f--------------------------",
+          "",
+          "&9Diamond &fx&3 30",
+          "&4TNT &fx&c 20",
+          "&0Obsidian &fx&8 20",
+          "&2Emerald &fx&a 3",
+          "&2Bedrock &fx&a 5",
+          "&5Enchanted Golden Apple &fx&d 3",
+          ""
+        ],
+        "Material": "STAINED_GLASS_PANE",
+        "Data": 13
+      },
+      "Current": {
+        "Name": "         &fREWARD NUMBER &29",
+        "Lore": [
+          "",
+          "&f--------------------------",
+          "              &2AVAILABLE",
+          "&f--------------------------",
+          "",
+          "&9Diamond &fx&3 30",
+          "&4TNT &fx&c 20",
+          "&0Obsidian &fx&8 20",
+          "&2Emerald &fx&a 3",
+          "&2Bedrock &fx&a 5",
+          "&5Enchanted Golden Apple &fx&d 3",
+          ""
+        ],
+        "Material": "STAINED_GLASS_PANE",
+        "Data": 5
+      },
+      "Next": {
+        "Name": "         &fREWARD NUMBER &29",
+        "Lore": [
+          "",
+          "&f--------------------------",
+          "          &4NOT AVAILABLE",
+          "&f--------------------------",
+          "",
+          "&9Diamond &fx&3 30",
+          "&4TNT &fx&c 20",
+          "&0Obsidian &fx&8 20",
+          "&2Emerald &fx&a 3",
+          "&2Bedrock &fx&a 5",
+          "&5Enchanted Golden Apple &fx&d 3",
+          ""
+        ],
+        "Material": "STAINED_GLASS_PANE",
+        "Data": 14
+      }
+    },
+    "10": {
+      "Previous": {
+        "Name": "        &fREWARD NUMBER &210",
+        "Lore": [
+          "",
+          "&f--------------------------",
+          "              &2COLLECTED",
+          "&f--------------------------",
+          "",
+          "&9Diamond &fx&3 30",
+          "&4TNT &fx&c 20",
+          "&0Obsidian &fx&8 30",
+          "&2Emerald &fx&a 3",
+          "&6Golden Apple &fx&e 1",
+          "&2Bedrock &fx&a 10",
+          "&5Enchanted Golden Apple &fx&d 3",
+          ""
+        ],
+        "Material": "STAINED_GLASS_PANE",
+        "Data": 13
+      },
+      "Current": {
+        "Name": "        &fREWARD NUMBER &210",
+        "Lore": [
+          "",
+          "&f--------------------------",
+          "              &2AVAILABLE",
+          "&f--------------------------",
+          "",
+          "&9Diamond &fx&3 30",
+          "&4TNT &fx&c 20",
+          "&0Obsidian &fx&8 30",
+          "&2Emerald &fx&a 3",
+          "&6Golden Apple &fx&e 1",
+          "&2Bedrock &fx&a 10",
+          "&5Enchanted Golden Apple &fx&d 3",
+          ""
+        ],
+        "Material": "STAINED_GLASS_PANE",
+        "Data": 5
+      },
+      "Next": {
+        "Name": "        &fREWARD NUMBER &210",
+        "Lore": [
+          "",
+          "&f--------------------------",
+          "          &4NOT AVAILABLE",
+          "&f--------------------------",
+          "",
+          "&9Diamond &fx&3 30",
+          "&4TNT &fx&c 20",
+          "&0Obsidian &fx&8 30",
+          "&2Emerald &fx&a 3",
+          "&6Golden Apple &fx&e 1",
+          "&2Bedrock &fx&a 10",
+          "&5Enchanted Golden Apple &fx&d 3",
+          ""
+        ],
+        "Material": "STAINED_GLASS_PANE",
+        "Data": 14
+      }
+    },
+    "11": {
+      "Previous": {
+        "Name": "        &fREWARD NUMBER &211",
+        "Lore": [
+          "",
+          "&f--------------------------",
+          "              &2COLLECTED",
+          "&f--------------------------",
+          "",
+          "&9Diamond &fx&3 30",
+          "&4TNT &fx&c 20",
+          "&0Obsidian &fx&8 30",
+          "&2Emerald &fx&a 5",
+          "&6Golden Apple &fx&e 1",
+          "&2Bedrock &fx&a 20",
+          "&5Enchanted Golden Apple &fx&d 3",
+          ""
+        ],
+        "Material": "STAINED_GLASS_PANE",
+        "Data": 13
+      },
+      "Current": {
+        "Name": "        &fREWARD NUMBER &211",
+        "Lore": [
+          "",
+          "&f--------------------------",
+          "              &2AVAILABLE",
+          "&f--------------------------",
+          "",
+          "&9Diamond &fx&3 30",
+          "&4TNT &fx&c 20",
+          "&0Obsidian &fx&8 30",
+          "&2Emerald &fx&a 5",
+          "&6Golden Apple &fx&e 1",
+          "&2Bedrock &fx&a 20",
+          "&5Enchanted Golden Apple &fx&d 3",
+          ""
+        ],
+        "Material": "STAINED_GLASS_PANE",
+        "Data": 5
+      },
+      "Next": {
+        "Name": "        &fREWARD NUMBER &211",
+        "Lore": [
+          "",
+          "&f--------------------------",
+          "          &4NOT AVAILABLE",
+          "&f--------------------------",
+          "",
+          "&9Diamond &fx&3 30",
+          "&4TNT &fx&c 20",
+          "&0Obsidian &fx&8 30",
+          "&2Emerald &fx&a 5",
+          "&6Golden Apple &fx&e 1",
+          "&2Bedrock &fx&a 20",
+          "&5Enchanted Golden Apple &fx&d 3",
+          ""
+        ],
+        "Material": "STAINED_GLASS_PANE",
+        "Data": 14
+      }
+    },
+    "12": {
+      "Previous": {
+        "Name": "        &fREWARD NUMBER &212",
+        "Lore": [
+          "",
+          "&f--------------------------",
+          "              &2COLLECTED",
+          "&f--------------------------",
+          "",
+          "&9Diamond &fx&3 30",
+          "&4TNT &fx&c 20",
+          "&0Obsidian &fx&8 40",
+          "&2Emerald &fx&a 5",
+          "&6Golden Apple &fx&e 3",
+          "&2Bedrock &fx&a 20",
+          "&5Enchanted Golden Apple &fx&d 3",
+          ""
+        ],
+        "Material": "STAINED_GLASS_PANE",
+        "Data": 13
+      },
+      "Current": {
+        "Name": "        &fREWARD NUMBER &212",
+        "Lore": [
+          "",
+          "&f--------------------------",
+          "              &2AVAILABLE",
+          "&f--------------------------",
+          "",
+          "&9Diamond &fx&3 30",
+          "&4TNT &fx&c 20",
+          "&0Obsidian &fx&8 40",
+          "&2Emerald &fx&a 5",
+          "&6Golden Apple &fx&e 3",
+          "&2Bedrock &fx&a 20",
+          "&5Enchanted Golden Apple &fx&d 3",
+          ""
+        ],
+        "Material": "STAINED_GLASS_PANE",
+        "Data": 5
+      },
+      "Next": {
+        "Name": "        &fREWARD NUMBER &212",
+        "Lore": [
+          "",
+          "&f--------------------------",
+          "          &4NOT AVAILABLE",
+          "&f--------------------------",
+          "",
+          "&9Diamond &fx&3 30",
+          "&4TNT &fx&c 20",
+          "&0Obsidian &fx&8 40",
+          "&2Emerald &fx&a 5",
+          "&6Golden Apple &fx&e 3",
+          "&2Bedrock &fx&a 20",
+          "&5Enchanted Golden Apple &fx&d 3",
+          ""
+        ],
+        "Material": "STAINED_GLASS_PANE",
+        "Data": 14
+      }
+    },
+    "13": {
+      "Previous": {
+        "Name": "        &fREWARD NUMBER &213",
+        "Lore": [
+          "",
+          "&f--------------------------",
+          "              &2COLLECTED",
+          "&f--------------------------",
+          "",
+          "&9Diamond &fx&3 40",
+          "&4TNT &fx&c 20",
+          "&0Obsidian &fx&8 40",
+          "&2Emerald &fx&a 5",
+          "&6Golden Apple &fx&e 3",
+          "&2Bedrock &fx&a 10",
+          "&5Enchanted Golden Apple &fx&d 3",
+          ""
+        ],
+        "Material": "STAINED_GLASS_PANE",
+        "Data": 13
+      },
+      "Current": {
+        "Name": "        &fREWARD NUMBER &213",
+        "Lore": [
+          "",
+          "&f--------------------------",
+          "              &2AVAILABLE",
+          "&f--------------------------",
+          "",
+          "&9Diamond &fx&3 40",
+          "&4TNT &fx&c 20",
+          "&0Obsidian &fx&8 40",
+          "&2Emerald &fx&a 5",
+          "&6Golden Apple &fx&e 3",
+          "&2Bedrock &fx&a 10",
+          "&5Enchanted Golden Apple &fx&d 3",
+          ""
+        ],
+        "Material": "STAINED_GLASS_PANE",
+        "Data": 5
+      },
+      "Next": {
+        "Name": "        &fREWARD NUMBER &213",
+        "Lore": [
+          "",
+          "&f--------------------------",
+          "          &4NOT AVAILABLE",
+          "&f--------------------------",
+          "",
+          "&9Diamond &fx&3 40",
+          "&4TNT &fx&c 20",
+          "&0Obsidian &fx&8 40",
+          "&2Emerald &fx&a 5",
+          "&6Golden Apple &fx&e 3",
+          "&2Bedrock &fx&a 10",
+          "&5Enchanted Golden Apple &fx&d 3",
+          ""
+        ],
+        "Material": "STAINED_GLASS_PANE",
+        "Data": 14
+      }
+    },
+    "14": {
+      "Previous": {
+        "Name": "        &fREWARD NUMBER &214",
+        "Lore": [
+          "",
+          "&f--------------------------",
+          "              &2COLLECTED",
+          "&f--------------------------",
+          "",
+          "&9Diamond &fx&3 50",
+          "&4TNT &fx&c 20",
+          "&0Obsidian &fx&8 50",
+          "&2Emerald &fx&a 5",
+          "&6Golden Apple &fx&e 1",
+          "&2Bedrock &fx&a 20",
+          "&5Enchanted Golden Apple &fx&d 3",
+          ""
+        ],
+        "Material": "STAINED_GLASS_PANE",
+        "Data": 13
+      },
+      "Current": {
+        "Name": "        &fREWARD NUMBER &214",
+        "Lore": [
+          "",
+          "&f--------------------------",
+          "              &2AVAILABLE",
+          "&f--------------------------",
+          "",
+          "&9Diamond &fx&3 50",
+          "&4TNT &fx&c 20",
+          "&0Obsidian &fx&8 50",
+          "&2Emerald &fx&a 5",
+          "&6Golden Apple &fx&e 1",
+          "&2Bedrock &fx&a 20",
+          "&5Enchanted Golden Apple &fx&d 3",
+          ""
+        ],
+        "Material": "STAINED_GLASS_PANE",
+        "Data": 5
+      },
+      "Next": {
+        "Name": "        &fREWARD NUMBER &214",
+        "Lore": [
+          "",
+          "&f--------------------------",
+          "          &4NOT AVAILABLE",
+          "&f--------------------------",
+          "",
+          "&9Diamond &fx&3 50",
+          "&4TNT &fx&c 20",
+          "&0Obsidian &fx&8 50",
+          "&2Emerald &fx&a 5",
+          "&6Golden Apple &fx&e 1",
+          "&2Bedrock &fx&a 20",
+          "&5Enchanted Golden Apple &fx&d 3",
+          ""
+        ],
+        "Material": "STAINED_GLASS_PANE",
+        "Data": 14
+      }
+    }
+  }
+}

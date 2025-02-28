@@ -1,0 +1,10 @@
+next-message: "Your next reward will be available in&a %TIME%"
+hours-between-rewards: 24
+reset: true
+hours-before-reset: 24
+auto-open: false
+permission-message: "&cI'm sorry, but you do not have permission to perform this command. Please contact the server administrators if you believe that this is in error."
+sounds:
+  enabled: true
+  available: "ENTITY_EXPERIENCE_ORB_PICKUP"
+  not-available: "BLOCK_ANVIL_DESTROY"

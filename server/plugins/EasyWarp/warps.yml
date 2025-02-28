@@ -1,0 +1,33 @@
+warps:
+  pvp:
+    world: world
+    x: -588.5
+    y: 63.0
+    z: 21.5
+    yaw: -274.95016
+    pitch: 45.89999
+    owner: 542fe86b-f7d9-3baa-9af8-302d489ab0b4
+  spawn:
+    world: world
+    x: 8.120033446847183
+    y: 71.0
+    z: -23.022943574278376
+    yaw: -7.95
+    pitch: 4.05
+    owner: 542fe86b-f7d9-3baa-9af8-302d489ab0b4
+  Red:
+    world: world
+    x: 380.2885892694927
+    y: 67.0
+    z: 135.43562616637934
+    yaw: 191.14944
+    pitch: 15.86558
+    owner: 542fe86b-f7d9-3baa-9af8-302d489ab0b4
+  Where:
+    world: world
+    x: 431.24524568395344
+    y: 63.0
+    z: 101.63722535633005
+    yaw: 175.78668
+    pitch: 78.90008
+    owner: 542fe86b-f7d9-3baa-9af8-302d489ab0b4

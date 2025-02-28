@@ -1,0 +1,86 @@
+# =====================
+# =====Entity Types====
+# =====================
+# =1.8.8=
+# Creeper 
+# Skeleton 
+# Spider 
+# Zombie 
+# Slime 
+# Ghast 
+# Zombie_Pigman 
+# Enderman 
+# Cave_Spider 
+# Silverfish 
+# Blaze 
+# Magma_Cube
+# Ender_Dragon 
+# Wither 
+# Bat 
+# Witch 
+# Endermite 
+# Guardian 
+# Pig 
+# Sheep 
+# Cow 
+# Chicken 
+# Squid 
+# Wolf 
+# Mooshroom
+# Snow_Golem 
+# Ocelot 
+# Iron_Golem 
+# Horse 
+# Rabbit 
+# Villager 
+
+# =1.9=
+# Shulker
+
+# =1.10=
+# PolarBear
+
+# =====================
+# =====Data Types======
+# =====================
+# Blaze: Fire
+# Creeper: Charged
+# Enderman: Screaming
+# Guardian: Elder
+# Horse: Chested, Donkey, Mule, Skeleton, Undead, HorseWhite, HorseBrown, HorseDarkBrown, HorseBlack, 
+#        HorseGray, Creamy, Chestnut, Socks, WhitePatch, WhiteDots, BlackDots, HorseIron, HorseGold, HorseDiamond
+# Magma_Cube/Slime: Small, Medium, Large
+# Ocelot: OcelotBlack, OcelotRed, OcelotSiamese, OcelotWild
+# Rabbit: RabbitBrown, RabbitWhite, RabbitBlack, RabbitBlackAndWhite, RabbitSaltAndPepper, RabbitTheKillerBunny, RabbitGold
+# Sheep: Sheared
+# Skeleton: Wither, Stray
+# Wither: Shield
+# Villager: Farmer, Librarian, Priest, Blacksmith, Butcher
+
+# =Misc=
+# These types are supported by multiple mobs.
+# Baby: Zombie, Zombie_Pigman , Chicken, Horse, Mooshroom, Cow, Ocelot, Pig, Rabbit, Sheep, Villager
+# Saddle: Horse, Pig
+# Angry: Wolf
+# Sitting: Wolf, Ocelot
+# Villager: Zombie, Zombie_Pigman 
+
+# =Colors=
+# Supported by Wolf & Sheep
+# Colors: Black, Red, Green, Brown, Blue, Purple, Cyan, Silver, Gray, Pink, Lime, Yellow, LightBlue, Magenta, Orange, White
+
+# =====================
+# =======Config========
+# =====================
+
+# How long a player has to wait before they are able to successfully click the npc.
+CommandRunDelay: 1000
+
+# List of fake commands used by ChestCommands if it is on the server.
+ChestCommandsList: []
+
+# List of fake commands used by DeluxeCommands if it is on the server.
+DeluxeCommandsList: []
+
+# Custom command that npc's will use to know when to send players to a bungee server.
+BungeeSendToServerCommand: npcsend
