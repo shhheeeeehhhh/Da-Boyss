@@ -15,14 +15,6 @@ warps:
     yaw: -7.95
     pitch: 4.05
     owner: 542fe86b-f7d9-3baa-9af8-302d489ab0b4
-  Red:
-    world: world
-    x: 380.2885892694927
-    y: 67.0
-    z: 135.43562616637934
-    yaw: 191.14944
-    pitch: 15.86558
-    owner: 542fe86b-f7d9-3baa-9af8-302d489ab0b4
   Where:
     world: world
     x: 431.24524568395344
@@ -30,4 +22,20 @@ warps:
     z: 101.63722535633005
     yaw: 175.78668
     pitch: 78.90008
+    owner: 542fe86b-f7d9-3baa-9af8-302d489ab0b4
+  Red:
+    world: world
+    x: 411.5721409971628
+    y: 66.0625
+    z: 125.90590441971311
+    yaw: 93.20795
+    pitch: -10.199989
+    owner: 542fe86b-f7d9-3baa-9af8-302d489ab0b4
+  Trials:
+    world: world
+    x: 5.815808119515978
+    y: 78.0
+    z: 813.7984240621736
+    yaw: 358.31665
+    pitch: 39.599945
     owner: 542fe86b-f7d9-3baa-9af8-302d489ab0b4

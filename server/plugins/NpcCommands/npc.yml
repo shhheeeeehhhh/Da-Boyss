@@ -3,9 +3,11 @@ Npc:
     NpcType: VILLAGER
     Name: ''
     Invisible: false
-    Glowing: true
+    Glowing: false
     Data: []
-    Commands: [/shop]
+    Commands:
+    - /shop
+    - /shop
     Location:
       World: world
       X: 4.491896983192365
@@ -20,7 +22,8 @@ Npc:
     Invisible: false
     Glowing: false
     Data: []
-    Commands: [/rtp]
+    Commands:
+    - /rtp
     Location:
       World: world
       X: 8.51931527171956
