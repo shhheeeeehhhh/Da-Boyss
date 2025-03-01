@@ -7,7 +7,7 @@
 server-name: "&3[&6EasyWarp&3]"
 
 # Delay (in seconds) before a person is warped. (0 for no delay)
-warp-delay: 10
+warp-delay: 0
 
 # Delay (in seconds) before a person can warp again. (0 for no delay)
 warp-cooldown: 0

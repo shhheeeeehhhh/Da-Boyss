@@ -7,7 +7,6 @@ Npc:
     Data: []
     Commands:
     - /shop
-    - /shop
     Location:
       World: world
       X: 4.491896983192365
